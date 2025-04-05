@@ -41,8 +41,8 @@
 - Why It Is Useful in OLAP and Its Use Cases
 
 
-Debezium Engine
-Data catalogs
-Debezium Config
-Load Testing (JMETER)
+- Debezium Engine
+- Data catalogs
+- Debezium Config
+- Load Testing (JMETER)
 
