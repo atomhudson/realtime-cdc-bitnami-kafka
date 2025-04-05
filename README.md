@@ -46,3 +46,16 @@
 - Debezium Config
 - Load Testing (JMETER)
 
+- ### Unit Testing
+- This is the smallest scale of testing and focuses on individual units or components (smallest parts) of the software. During development, developers test these units.
+
+### Integration Testing
+- It involves testing the interaction between different units or modules to ensure they work together as intended when integrated.
+
+### System Testing
+- This type of testing verifies that the entire system or application meets the specified requirements. It tests the system as a whole and checks whether it properly meets functional or non-functional requirements.
+
+### Regression Testing
+- It ensures that recent code changes haven't affected existing functionalities.
+
+
