@@ -39,3 +39,10 @@
 - What is Debezium
 - Difference Between Debezium and Debezium CDC
 - Why It Is Useful in OLAP and Its Use Cases
+
+
+Debezium Engine
+Data catalogs
+Debezium Config
+Load Testing (JMETER)
+
