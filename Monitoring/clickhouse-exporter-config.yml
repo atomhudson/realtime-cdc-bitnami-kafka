@@ -1,0 +1,4 @@
+clickhouse:
+  url: http://clickhouse:8123
+  username: default
+  password: ""
